@@ -13,5 +13,3 @@ echo "echo \"Hello World!\"" > my_code.sh
 git commit -am 'second commit on master'
 git merge new_branch
 
-$ ./make-conflict.sh
-
